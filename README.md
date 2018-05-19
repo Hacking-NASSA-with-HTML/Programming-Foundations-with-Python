@@ -1,3 +1,4 @@
 # Programming-Foundations-with-Python
 I decided to dip into the Python foundations.
-See the project on [ Github Pages](http://vyacheslavv44.github.io/Programming-Foundations-with-Python).
+<br />
+See the project on [ Github Pages](https://vyacheslavv44.github.io/Programming-Foundations-with-Python).
